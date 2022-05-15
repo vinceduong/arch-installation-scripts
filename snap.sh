@@ -1,6 +1,6 @@
 git clone https://aur.archlinux.org/snapd.git
 cd snapd
-makepkg -si
+sudo makepkg -si
 sudo systemctl enable --now snapd.socketpacman
-snap install postman slack dbeaver-ce
-snap install kontena-lens --classic
+sudo snap install postman slack dbeaver-ce
+sudo snap install kontena-lens --classic
