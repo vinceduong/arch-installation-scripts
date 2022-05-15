@@ -1,0 +1,7 @@
+import: 
+  - ~/.config/alacritty/aura-theme.yml
+
+font:
+  normal:
+    family: Fira Code
+    size: 10.0
