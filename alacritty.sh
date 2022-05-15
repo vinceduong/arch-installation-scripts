@@ -1,3 +1,3 @@
-pacman --no-confirm -Sy alacritty 
+pacman --noconfirm -Sy alacritty 
 cp config/alacritty ~/.alacritty.yml
 
