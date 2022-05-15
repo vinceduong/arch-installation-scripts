@@ -1,1 +1,1 @@
-pacman -Sy ttf-fira-code
+pacman --no-confirm -Sy ttf-fira-code
